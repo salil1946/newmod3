@@ -1,0 +1,24 @@
+.navbar-brand {
+	padding-top: 0;
+	padding-bottom: 60px;
+}
+
+  .h1t {
+	padding-top: 40px;
+	padding-bottom: 10px;
+	color: navy;
+  }
+  .b1{
+		background-color: silver;
+		color: black;
+	}
+	
+   .b2{
+		background-color: white;
+		color: red;
+	}
+	
+	.b3{
+		background-color: yellow;
+		color: navy;
+	}
